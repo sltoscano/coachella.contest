@@ -1,0 +1,9 @@
+Download ruby installer
+Download live105-scraper.rb
+Download quotes.txt
+Install ruby
+Open "Start Command Prompt with Ruby" (should be in your start menu)
+gem install mechanize
+ruby live105-scraper.rb 4000
+
+(where 4000 is a number that doesn't conflict with anyone else's number. For example, Steve is using 1000-3000 for each of his machines.)

@@ -1,0 +1,1153 @@
+# Logfile created on 2011-04-10 17:37:51 -0700 by logger.rb/25413
+Begin mechanize script
+Loading quotes
+Randomizing 461 quotes
+done
+Attempt number 0
+Time is 2011-04-10 17:38:32 -0700
+Submitting comment "You are modest and courteous hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30396
+Time elapsed = 52.850586 sec
+Sleeping for 13 sec
+
+Attempt number 1
+Time is 2011-04-10 17:39:38 -0700
+Submitting comment "Rest has a peaceful effect on your physical and emotional health hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30398
+Time elapsed = 53.327148 sec
+Sleeping for 11 sec
+
+Attempt number 2
+Time is 2011-04-10 17:40:42 -0700
+Submitting comment "A light heart carries you through all the hard times hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30400
+Time elapsed = 49.192383 sec
+Sleeping for 13 sec
+
+Attempt number 3
+Time is 2011-04-10 17:41:45 -0700
+Submitting comment "Place special emphasis on old friendship hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30402
+Time elapsed = 47.59668 sec
+Sleeping for 12 sec
+
+Attempt number 4
+Time is 2011-04-10 17:42:44 -0700
+Submitting comment "You begin to appreciate how important it is to share your personal beliefs hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30404
+Time elapsed = 49.449219 sec
+Sleeping for 13 sec
+
+Attempt number 5
+Time is 2011-04-10 17:43:47 -0700
+Submitting comment "Skill comes from diligence hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30407
+Time elapsed = 55.958984 sec
+Sleeping for 11 sec
+
+Attempt number 6
+Time is 2011-04-10 17:44:54 -0700
+Submitting comment "He who laughs last is laughing at you hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30409
+Time elapsed = 49.404297 sec
+Sleeping for 11 sec
+
+Attempt number 7
+Time is 2011-04-10 17:45:54 -0700
+Submitting comment "You will step on the soil of many countries hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30410
+Time elapsed = 56.286133 sec
+Sleeping for 13 sec
+
+Attempt number 8
+Time is 2011-04-10 17:47:03 -0700
+Submitting comment "If a true sense of value is to be yours it must come through service hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30412
+Time elapsed = 56.328125 sec
+Sleeping for 12 sec
+
+Attempt number 9
+Time is 2011-04-10 17:48:12 -0700
+Submitting comment "In order to take, one must first give hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30413
+Time elapsed = 56.876953 sec
+Sleeping for 13 sec
+
+Attempt number 10
+Time is 2011-04-10 17:49:21 -0700
+Submitting comment "Go take a rest; you deserve it hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 13...
+
+Attempt number 10
+Time is 2011-04-10 17:49:36 -0700
+Submitting comment "Go take a rest; you deserve it hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 14...
+
+Attempt number 10
+Time is 2011-04-10 17:49:51 -0700
+Submitting comment "Go take a rest; you deserve it hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30415
+Time elapsed = 54.05664 sec
+Sleeping for 11 sec
+
+Exception caught: "", retrying in 12...
+
+Begin mechanize script
+Loading quotes
+Randomizing 461 quotes
+done
+Attempt number 0
+Time is 2011-04-10 17:51:20 -0700
+Submitting comment "Love is a warm fire to keep the soul warm hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30417
+Time elapsed = 48.131835 sec
+Sleeping for 13 sec
+
+Attempt number 1
+Time is 2011-04-10 17:52:21 -0700
+Submitting comment "Your flair for the creative takes an important place in your life hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30418
+Time elapsed = 38.792969 sec
+Sleeping for 14 sec
+
+Attempt number 2
+Time is 2011-04-10 17:53:14 -0700
+Submitting comment "You always bring others happiness hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30420
+Time elapsed = 38.72168 sec
+Sleeping for 10 sec
+
+Attempt number 3
+Time is 2011-04-10 17:54:02 -0700
+Submitting comment "You should be able to undertake and complete anything hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30422
+Time elapsed = 37.845703 sec
+Sleeping for 10 sec
+
+Attempt number 4
+Time is 2011-04-10 17:54:50 -0700
+Submitting comment "Get your mind set…confidence will lead you on hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 12...
+
+Attempt number 4
+Time is 2011-04-10 17:55:50 -0700
+Submitting comment "Get your mind set…confidence will lead you on hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30425
+Time elapsed = 56.883789 sec
+Sleeping for 13 sec
+
+Attempt number 5
+Time is 2011-04-10 17:57:00 -0700
+Submitting comment "Do not mistake temptation for opportunity hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30427
+Time elapsed = 44.396484 sec
+Sleeping for 10 sec
+
+Attempt number 6
+Time is 2011-04-10 17:57:54 -0700
+Submitting comment "Your happiness is before you, not behind you! Cherish it hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30429
+Time elapsed = 54.950196 sec
+Sleeping for 14 sec
+
+Attempt number 7
+Time is 2011-04-10 17:59:03 -0700
+Submitting comment "Your leadership qualities will be tested and proven hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30433
+Time elapsed = 38.21875 sec
+Sleeping for 13 sec
+
+Attempt number 8
+Time is 2011-04-10 17:59:54 -0700
+Submitting comment "Your past success will be overshadowed by your future success hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 11...
+
+Attempt number 8
+Time is 2011-04-10 18:00:39 -0700
+Submitting comment "Your past success will be overshadowed by your future success hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 11...
+
+Attempt number 8
+Time is 2011-04-10 18:01:38 -0700
+Submitting comment "Your past success will be overshadowed by your future success hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 11...
+
+Attempt number 8
+Time is 2011-04-10 18:02:37 -0700
+Submitting comment "Your past success will be overshadowed by your future success hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 12...
+
+Attempt number 8
+Time is 2011-04-10 18:03:27 -0700
+Submitting comment "Your past success will be overshadowed by your future success hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 10...
+
+Attempt number 8
+Time is 2011-04-10 18:04:44 -0700
+Submitting comment "Your past success will be overshadowed by your future success hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 12...
+
+Attempt number 8
+Time is 2011-04-10 18:05:31 -0700
+Submitting comment "Your past success will be overshadowed by your future success hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 14...
+
+Attempt number 8
+Time is 2011-04-10 18:06:20 -0700
+Submitting comment "Your past success will be overshadowed by your future success hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 10...
+
+Attempt number 8
+Time is 2011-04-10 18:07:05 -0700
+Submitting comment "Your past success will be overshadowed by your future success hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 11...
+
+Begin mechanize script
+Loading quotes
+Randomizing 461 quotes
+done
+Attempt number 0
+Time is 2011-04-10 18:35:54 -0700
+Submitting comment "You always bring others happiness hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 10...
+
+Attempt number 0
+Time is 2011-04-10 18:36:07 -0700
+Submitting comment "You always bring others happiness hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 28...
+
+Attempt number 0
+Time is 2011-04-10 18:36:39 -0700
+Exception caught: "", retrying in 33...
+
+Begin mechanize script
+Loading quotes
+Randomizing 460 quotes
+done
+Attempt number 0
+Time is 2011-04-10 19:35:42 -0700
+Submitting comment "Decide what you want and go for it hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30488
+Time elapsed = 85.498047 sec
+Sleeping for 13 sec
+
+Attempt number 1
+Time is 2011-04-10 19:37:20 -0700
+Submitting comment "Avert misunderstanding by calm, poise and balance hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30489
+Time elapsed = 96.776367 sec
+Sleeping for 10 sec
+
+Attempt number 2
+Time is 2011-04-10 19:39:07 -0700
+Submitting comment "The joyfulness of a man prolongeth his days hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 120...
+
+Begin mechanize script
+Loading quotes
+Randomizing 460 quotes
+done
+Attempt number 0
+Time is 2011-04-10 19:47:55 -0700
+Submitting comment "You have a shrewd knack for spotting insincerity hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30493
+Time elapsed = 60.070312 sec
+Sleeping for 120 sec
+
+Exception caught: "", retrying in 360...
+
+Begin mechanize script
+Loading quotes
+Randomizing 460 quotes
+done
+Sleeping for 124 sec
+
+Attempt number 0
+Time is 2011-04-10 20:23:37 -0700
+Exception caught: "can't convert Fixnum into String", retrying in 360...
+
+Begin mechanize script
+Loading quotes
+Randomizing 460 quotes
+done
+Attempt number 0
+Time is 2011-04-10 20:30:43 -0700
+Submitting email "stoscano+coachellacontest0@hotmail.com"
+Exception caught: "can't convert nil into String", retrying in 360...
+
+Begin mechanize script
+Loading quotes
+Randomizing 460 quotes
+done
+Attempt number 0
+Time is 2011-04-10 20:32:49 -0700
+Submitting email "stoscano+coachellacontest1@hotmail.com"
+Submitting comment "Rest has a peaceful effect on your physical and emotional health hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 360...
+
+Begin mechanize script
+Loading quotes
+Randomizing 460 quotes
+done
+Attempt number 0
+Time is 2011-04-10 20:39:16 -0700
+Exception caught: "", retrying in 360...
+
+Begin mechanize script
+Loading quotes
+Randomizing 460 quotes
+done
+Attempt number 0
+Time is 2011-04-10 20:40:12 -0700
+Submitting email "stoscano+coachellacontest1@hotmail.com"
+Submitting comment "You will inherit some money or a small piece of land hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 360...
+
+Begin mechanize script
+Loading quotes
+Randomizing 460 quotes
+done
+Attempt number 0
+Time is 2011-04-10 21:07:30 -0700
+Submitting comment "A friend is a present you give yourself hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 60...
+
+Begin mechanize script
+Loading quotes
+Randomizing 460 quotes
+done
+Attempt number 0
+Time is 2011-04-10 21:17:40 -0700
+Submitting comment "He who laughs at himself never runs out of things to laugh at hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30509
+Time elapsed = 40.31543 sec
+Sleeping for 12 sec
+
+Attempt number 1
+Time is 2011-04-10 21:18:32 -0700
+Submitting comment "Your blessing is no more than being safe and sound for the whole lifetime hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30510
+Time elapsed = 38.234375 sec
+Sleeping for 10 sec
+
+Exception caught: "", retrying in 60...
+
+Begin mechanize script
+Loading quotes
+Randomizing 460 quotes
+done
+Attempt number 0
+Time is 2011-04-10 22:00:03 -0700
+Submitting comment "1000. Be direct, usually one can accomplish more that way hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30517
+Time elapsed = 39.301758 sec
+Sleeping for 14 sec
+
+Attempt number 1
+Time is 2011-04-10 22:01:01 -0700
+Submitting comment "1001. Your money worries are over! Your new job will bring you a huge increase in income hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30518
+Time elapsed = 39.194336 sec
+Sleeping for 14 sec
+
+Attempt number 2
+Time is 2011-04-10 22:02:00 -0700
+Submitting comment "1002. Someone is speaking well of you hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30520
+Time elapsed = 38.302734 sec
+Sleeping for 11 sec
+
+Attempt number 3
+Time is 2011-04-10 22:02:54 -0700
+Submitting comment "1003. Your life will be happy and peaceful hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30521
+Time elapsed = 56.061523 sec
+Sleeping for 14 sec
+
+Attempt number 4
+Time is 2011-04-10 22:04:09 -0700
+Submitting comment "1004. The one you love is closer than you think hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30524
+Time elapsed = 55.972657 sec
+Sleeping for 10 sec
+
+Attempt number 5
+Time is 2011-04-10 22:05:20 -0700
+Submitting comment "1005. Soon life will become more interesting hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 30...
+
+Attempt number 5
+Time is 2011-04-10 22:05:59 -0700
+Submitting comment "1005. Soon life will become more interesting hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30527
+Time elapsed = 46.229492 sec
+Sleeping for 10 sec
+
+Attempt number 6
+Time is 2011-04-10 22:07:00 -0700
+Submitting comment "1006. Your success will astonish everyone hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30529
+Time elapsed = 47.835937 sec
+Sleeping for 13 sec
+
+Exception caught: "", retrying in 30...
+
+Begin mechanize script
+Loading quotes
+Randomizing 460 quotes
+done
+Attempt number 0
+Time is 2011-04-10 22:09:52 -0700
+Submitting comment "1010. You will become a great philanthropist in your later years hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30534
+Time elapsed = 42.444335 sec
+Sleeping for 6 sec
+
+Attempt number 1
+Time is 2011-04-10 22:10:46 -0700
+Submitting comment "1011. You desire recognition and you will find it hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30538
+Time elapsed = 39.169922 sec
+Sleeping for 9 sec
+
+Attempt number 2
+Time is 2011-04-10 22:11:39 -0700
+Submitting comment "1012. Say hello to others. You will have a happier day hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30542
+Time elapsed = 38.682618 sec
+Sleeping for 5 sec
+
+Attempt number 3
+Time is 2011-04-10 22:12:28 -0700
+Submitting comment "1013. Your great attention to detail is both a blessing and a curse hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30545
+Time elapsed = 46.227539 sec
+Sleeping for 7 sec
+
+Attempt number 4
+Time is 2011-04-10 22:13:26 -0700
+Submitting comment "1014. Don’t let your limitations overshadow your talents hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30549
+Time elapsed = 40.977539 sec
+Sleeping for 7 sec
+
+Attempt number 5
+Time is 2011-04-10 22:14:19 -0700
+Submitting comment "1015. Good luck is the result of good planning hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30551
+Time elapsed = 41.273437 sec
+Sleeping for 8 sec
+
+Attempt number 6
+Time is 2011-04-10 22:15:13 -0700
+Submitting comment "1016. You will spend old age in comfort and material wealth hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30553
+Time elapsed = 48.810547 sec
+Sleeping for 6 sec
+
+Attempt number 7
+Time is 2011-04-10 22:16:13 -0700
+Submitting comment "1017. You will have a very pleasant experience hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30558
+Time elapsed = 40.774414 sec
+Sleeping for 7 sec
+
+Attempt number 8
+Time is 2011-04-10 22:17:06 -0700
+Submitting comment "1018. Miles are covered one step at a time hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30560
+Time elapsed = 51.688476 sec
+Sleeping for 5 sec
+
+Attempt number 9
+Time is 2011-04-10 22:18:07 -0700
+Submitting comment "1019. Love is for the lucky and the brave hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30564
+Time elapsed = 55.232422 sec
+Sleeping for 5 sec
+
+Attempt number 10
+Time is 2011-04-10 22:19:13 -0700
+Submitting comment "1020. It could be better, but its[sic] good enough hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 30...
+
+Attempt number 10
+Time is 2011-04-10 22:20:38 -0700
+Submitting comment "1020. It could be better, but its[sic] good enough hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30570
+Time elapsed = 46.199219 sec
+Sleeping for 8 sec
+
+Attempt number 11
+Time is 2011-04-10 22:21:37 -0700
+Submitting comment "1021. Your work interests can capture the highest status or prestige hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30573
+Time elapsed = 48.509765 sec
+Sleeping for 5 sec
+
+Attempt number 12
+Time is 2011-04-10 22:22:35 -0700
+Submitting comment "1022. He who laughs at himself never runs out of things to laugh at hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30576
+Time elapsed = 51.353516 sec
+Sleeping for 5 sec
+
+Exception caught: "", retrying in 30...
+
+Begin mechanize script
+Loading quotes
+Randomizing 460 quotes
+done
+Attempt number 0
+Time is 2011-04-10 22:24:00 -0700
+Submitting comment "1010000. A secret admirer will soon send you a sign of affection hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30582
+Time elapsed = 72.486328 sec
+Sleeping for 5 sec
+
+Attempt number 1
+Time is 2011-04-10 22:25:22 -0700
+Submitting comment "1010001. Your hard work will payoff today hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30586
+Time elapsed = 38.647461 sec
+Sleeping for 5 sec
+
+Attempt number 2
+Time is 2011-04-10 22:26:11 -0700
+Submitting comment "1010002. Don't forget, you are always on our minds hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30590
+Time elapsed = 54.125977 sec
+Sleeping for 5 sec
+
+Attempt number 3
+Time is 2011-04-10 22:27:15 -0700
+Submitting comment "1010003. Decide what you want and go for it hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30594
+Time elapsed = 56.479492 sec
+Sleeping for 9 sec
+
+Attempt number 4
+Time is 2011-04-10 22:28:26 -0700
+Submitting comment "1010004. Ideas are like children; there are none so wonderful as your own hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30597
+Time elapsed = 57.027343 sec
+Sleeping for 7 sec
+
+Attempt number 5
+Time is 2011-04-10 22:29:35 -0700
+Submitting comment "1010005. Put the data you have uncovered to beneficial use hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30602
+Time elapsed = 57.112305 sec
+Sleeping for 7 sec
+
+Attempt number 6
+Time is 2011-04-10 22:30:44 -0700
+Submitting comment "1010006. There is no mistake so great as that of being always right hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 30...
+
+Attempt number 6
+Time is 2011-04-10 22:32:16 -0700
+Submitting comment "1010006. There is no mistake so great as that of being always right hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30611
+Time elapsed = 38.041992 sec
+Sleeping for 6 sec
+
+Attempt number 7
+Time is 2011-04-10 22:33:05 -0700
+Submitting comment "1010007. A golden egg of opportunity falls into your lap this month hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30614
+Time elapsed = 47.972656 sec
+Sleeping for 9 sec
+
+Attempt number 8
+Time is 2011-04-10 22:34:07 -0700
+Submitting comment "1010008. A feather in the hand is better than a bird in the air hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30618
+Time elapsed = 50.442382 sec
+Sleeping for 8 sec
+
+Attempt number 9
+Time is 2011-04-10 22:35:11 -0700
+Submitting comment "1010009. The change you started already have far-reaching effects. Be ready hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30622
+Time elapsed = 53.623047 sec
+Sleeping for 6 sec
+
+Attempt number 10
+Time is 2011-04-10 22:36:15 -0700
+Submitting comment "1010010. He who laughs at himself never runs out of things to laugh at hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30627
+Time elapsed = 54.253906 sec
+Sleeping for 8 sec
+
+Attempt number 11
+Time is 2011-04-10 22:37:23 -0700
+Submitting comment "1010011. You should be able to make money and hold on to it hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30632
+Time elapsed = 52.320313 sec
+Sleeping for 9 sec
+
+Attempt number 12
+Time is 2011-04-10 22:38:29 -0700
+Submitting comment "1010012. You will be invited to an exciting event hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30636
+Time elapsed = 58.143555 sec
+Sleeping for 7 sec
+
+Attempt number 13
+Time is 2011-04-10 22:39:39 -0700
+Submitting comment "1010013. Your love life will be happy and harmonious hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30640
+Time elapsed = 52.013672 sec
+Sleeping for 6 sec
+
+Attempt number 14
+Time is 2011-04-10 22:40:42 -0700
+Submitting comment "1010014. Happy life is just in front of you hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30645
+Time elapsed = 57.370117 sec
+Sleeping for 7 sec
+
+Attempt number 15
+Time is 2011-04-10 22:41:52 -0700
+Submitting comment "1010015. Your talents will be recognized and suitably rewarded hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30649
+Time elapsed = 51.726563 sec
+Sleeping for 5 sec
+
+Attempt number 16
+Time is 2011-04-10 22:42:53 -0700
+Submitting comment "1010016. He who knows he has enough is rich hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 30...
+
+Attempt number 16
+Time is 2011-04-10 22:43:32 -0700
+Submitting comment "1010016. He who knows he has enough is rich hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30652
+Time elapsed = 34.179688 sec
+Sleeping for 8 sec
+
+Attempt number 17
+Time is 2011-04-10 22:44:19 -0700
+Submitting comment "1010017. It is worth reviewing some old lessons hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30655
+Time elapsed = 36.908203 sec
+Sleeping for 8 sec
+
+Attempt number 18
+Time is 2011-04-10 22:45:09 -0700
+Submitting comment "1010018. Excitement and intrigue follow you closely wherever you go hipster!"
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30658
+Time elapsed = 46.333008 sec
+Sleeping for 6 sec
+
+Attempt number 19
+Time is 2011-04-10 22:46:07 -0700
+Submitting comment "1010019. The time is right to make new friends hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30661
+Time elapsed = 36.178711 sec
+Sleeping for 6 sec
+
+Attempt number 20
+Time is 2011-04-10 22:46:54 -0700
+Submitting comment "1010020. Trust your intuition. The universe is guiding your life hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30664
+Time elapsed = 43.689453 sec
+Sleeping for 8 sec
+
+Attempt number 21
+Time is 2011-04-10 22:47:51 -0700
+Submitting comment "1010021. Your money worries are over! Your new job will bring you a huge increase in income hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30669
+Time elapsed = 45.139648 sec
+Sleeping for 5 sec
+
+Attempt number 22
+Time is 2011-04-10 22:48:46 -0700
+Submitting comment "1010022. There is a true and sincere friendship between you and your friends hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30673
+Time elapsed = 48.327149 sec
+Sleeping for 6 sec
+
+Attempt number 23
+Time is 2011-04-10 22:49:45 -0700
+Submitting comment "1010023. Advice is like kissing. It costs nothing and is a pleasant thing to do hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30678
+Time elapsed = 50.270507 sec
+Sleeping for 9 sec
+
+Attempt number 24
+Time is 2011-04-10 22:50:49 -0700
+Submitting comment "1010024. Your difficulties will strengthen you hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30680
+Time elapsed = 46.077148 sec
+Sleeping for 8 sec
+
+Attempt number 25
+Time is 2011-04-10 22:51:48 -0700
+Submitting comment "1010025. It doesn't matter. Who is without a flaw hipster?"
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30685
+Time elapsed = 36.875976 sec
+Sleeping for 5 sec
+
+Attempt number 26
+Time is 2011-04-10 22:52:35 -0700
+Submitting comment "1010026. Love is like sweet medicine, good to the last drop hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30687
+Time elapsed = 39.666992 sec
+Sleeping for 5 sec
+
+Attempt number 27
+Time is 2011-04-10 22:53:25 -0700
+Submitting comment "1010027. You always bring others happiness hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30690
+Time elapsed = 41.565429 sec
+Sleeping for 7 sec
+
+Attempt number 28
+Time is 2011-04-10 22:54:18 -0700
+Submitting comment "1010028. Keep your plans secret for now hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30693
+Time elapsed = 45.417969 sec
+Sleeping for 9 sec
+
+Attempt number 29
+Time is 2011-04-10 22:55:18 -0700
+Submitting comment "1010029. A fresh start will put you on your way hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 30...
+
+Attempt number 29
+Time is 2011-04-10 22:55:57 -0700
+Submitting comment "1010029. A fresh start will put you on your way hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30698
+Time elapsed = 48.762696 sec
+Sleeping for 5 sec
+
+Attempt number 30
+Time is 2011-04-10 22:56:56 -0700
+Submitting comment "1010030. Disbelief destroys the magic hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30701
+Time elapsed = 41.042969 sec
+Sleeping for 6 sec
+
+Attempt number 31
+Time is 2011-04-10 22:57:48 -0700
+Submitting comment "1010031. If you continually give, you will continually have hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30705
+Time elapsed = 36.126953 sec
+Sleeping for 8 sec
+
+Attempt number 32
+Time is 2011-04-10 22:58:37 -0700
+Submitting comment "1010032. Your heart is pure, and your mind clear, and your soul devout hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30709
+Time elapsed = 44.942382 sec
+Sleeping for 5 sec
+
+Attempt number 33
+Time is 2011-04-10 22:59:32 -0700
+Submitting comment "1010033. A single kind word will keep one warm for years hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 30...
+
+Attempt number 33
+Time is 2011-04-10 23:00:11 -0700
+Submitting comment "1010033. A single kind word will keep one warm for years hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30713
+Time elapsed = 49.333984 sec
+Sleeping for 8 sec
+
+Attempt number 34
+Time is 2011-04-10 23:01:13 -0700
+Submitting comment "1010034. A quiet evening with friends is the best tonic for a long day hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 30...
+
+Attempt number 34
+Time is 2011-04-10 23:01:53 -0700
+Submitting comment "1010034. A quiet evening with friends is the best tonic for a long day hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30719
+Time elapsed = 54.273437 sec
+Sleeping for 6 sec
+
+Attempt number 35
+Time is 2011-04-10 23:02:58 -0700
+Submitting comment "1010035. Don’t just spend time. Invest it hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30723
+Time elapsed = 53.751953 sec
+Sleeping for 8 sec
+
+Attempt number 36
+Time is 2011-04-10 23:04:05 -0700
+Submitting comment "1010036. Believe in yourself and others will too hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30726
+Time elapsed = 56.84961 sec
+Sleeping for 8 sec
+
+Attempt number 37
+Time is 2011-04-10 23:05:15 -0700
+Submitting comment "1010037. When you speak honestly and openly, others truly listen to you hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30732
+Time elapsed = 56.896485 sec
+Sleeping for 7 sec
+
+Attempt number 38
+Time is 2011-04-10 23:06:23 -0700
+Submitting comment "1010038. Today is a lucky day for those who remain cheerful and optimistic hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 30...
+
+Attempt number 38
+Time is 2011-04-10 23:07:02 -0700
+Submitting comment "1010038. Today is a lucky day for those who remain cheerful and optimistic hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30738
+Time elapsed = 45.819336 sec
+Sleeping for 8 sec
+
+Attempt number 39
+Time is 2011-04-10 23:08:01 -0700
+Submitting comment "1010039. Make two grins grow where there was only a grouch before hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30741
+Time elapsed = 59.460938 sec
+Sleeping for 7 sec
+
+Attempt number 40
+Time is 2011-04-10 23:09:13 -0700
+Submitting comment "1010040. You have exceeded what was expected hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30747
+Time elapsed = 54.214844 sec
+Sleeping for 7 sec
+
+Attempt number 41
+Time is 2011-04-10 23:10:19 -0700
+Submitting comment "1010041. Rest has a peaceful effect on your physical and emotional health hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30750
+Time elapsed = 37.822266 sec
+Sleeping for 9 sec
+
+Attempt number 42
+Time is 2011-04-10 23:11:11 -0700
+Submitting comment "1010042. Get ready! Good fortune comes in bunches hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30753
+Time elapsed = 38.823242 sec
+Sleeping for 6 sec
+
+Attempt number 43
+Time is 2011-04-10 23:12:00 -0700
+Submitting comment "1010043. Determination is what you need now hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 30...
+
+Attempt number 43
+Time is 2011-04-10 23:12:39 -0700
+Submitting comment "1010043. Determination is what you need now hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30759
+Time elapsed = 35.488282 sec
+Sleeping for 8 sec
+
+Attempt number 44
+Time is 2011-04-10 23:13:28 -0700
+Submitting comment "1010044. Stand tall. Don’t look down upon yourself hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30762
+Time elapsed = 54.986328 sec
+Sleeping for 9 sec
+
+Attempt number 45
+Time is 2011-04-10 23:14:37 -0700
+Submitting comment "1010045. You will spend old age in comfort and material wealth hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30766
+Time elapsed = 35.232422 sec
+Sleeping for 6 sec
+
+Attempt number 46
+Time is 2011-04-10 23:15:23 -0700
+Submitting comment "1010046. Accept something that you cannot change, and you will feel better hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30769
+Time elapsed = 46.530274 sec
+Sleeping for 7 sec
+
+Attempt number 47
+Time is 2011-04-10 23:16:22 -0700
+Submitting comment "1010047. Your greatest fortune is the large number of friends you have hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30775
+Time elapsed = 50.182617 sec
+Sleeping for 9 sec
+
+Attempt number 48
+Time is 2011-04-10 23:17:26 -0700
+Submitting comment "1010048. You desire recognition and you will find it hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30778
+Time elapsed = 59.357422 sec
+Sleeping for 5 sec
+
+Attempt number 49
+Time is 2011-04-10 23:18:35 -0700
+Submitting comment "1010049. Failure is the chance to do better next time hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30782
+Time elapsed = 56.415039 sec
+Sleeping for 5 sec
+
+Attempt number 50
+Time is 2011-04-10 23:19:42 -0700
+Submitting comment "1010050. He who throws dirt is losing ground hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30787
+Time elapsed = 54.411132 sec
+Sleeping for 7 sec
+
+Attempt number 51
+Time is 2011-04-10 23:20:48 -0700
+Submitting comment "1010051. You will have a fine capacity for the enjoyment of life hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30791
+Time elapsed = 53.407227 sec
+Sleeping for 7 sec
+
+Attempt number 52
+Time is 2011-04-10 23:21:53 -0700
+Submitting comment "1010052. You should be able to undertake and complete anything hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30795
+Time elapsed = 50.067383 sec
+Sleeping for 6 sec
+
+Attempt number 53
+Time is 2011-04-10 23:22:54 -0700
+Submitting comment "1010053. Your great attention to detail is both a blessing and a curse hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30798
+Time elapsed = 47.172852 sec
+Sleeping for 5 sec
+
+Attempt number 54
+Time is 2011-04-10 23:23:52 -0700
+Submitting comment "1010054. Be prepared to accept a wondrous opportunity in the days ahead hipster!"
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30801
+Time elapsed = 67.920899 sec
+Sleeping for 9 sec
+
+Attempt number 55
+Time is 2011-04-10 23:25:13 -0700
+Submitting comment "1010055. Your talents will be recognized and suitably rewarded hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30806
+Time elapsed = 57.326172 sec
+Sleeping for 7 sec
+
+Attempt number 56
+Time is 2011-04-10 23:26:23 -0700
+Submitting comment "1010056. Remember to share good fortune as well as bad with your friends hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30811
+Time elapsed = 38.733398 sec
+Sleeping for 9 sec
+
+Attempt number 57
+Time is 2011-04-10 23:27:16 -0700
+Submitting comment "1010057. Be careful or you could fall for some tricks today hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30815
+Time elapsed = 57.833008 sec
+Sleeping for 7 sec
+
+Attempt number 58
+Time is 2011-04-10 23:28:25 -0700
+Submitting comment "1010058. Love is the triumph of imagination over intelligence hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30820
+Time elapsed = 57.81543 sec
+Sleeping for 7 sec
+
+Attempt number 59
+Time is 2011-04-10 23:29:35 -0700
+Submitting comment "1010059. Believe it can be done hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30826
+Time elapsed = 45.249023 sec
+Sleeping for 7 sec
+
+Attempt number 60
+Time is 2011-04-10 23:30:32 -0700
+Submitting comment "1010060. An inch of time is an inch of gold hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 30...
+
+Attempt number 60
+Time is 2011-04-10 23:31:53 -0700
+Submitting comment "1010060. An inch of time is an inch of gold hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30835
+Time elapsed = 34.884766 sec
+Sleeping for 9 sec
+
+Attempt number 61
+Time is 2011-04-10 23:32:42 -0700
+Submitting comment "1010061. Courtesy is contagious hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30839
+Time elapsed = 48.604492 sec
+Sleeping for 5 sec
+
+Attempt number 62
+Time is 2011-04-10 23:33:41 -0700
+Submitting comment "1010062. Every wise man started out by asking many questions hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30841
+Time elapsed = 49.645508 sec
+Sleeping for 5 sec
+
+Attempt number 63
+Time is 2011-04-10 23:34:40 -0700
+Submitting comment "1010063. Don’t confuse recklessness with confidence hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30845
+Time elapsed = 44.208985 sec
+Sleeping for 9 sec
+
+Attempt number 64
+Time is 2011-04-10 23:35:38 -0700
+Submitting comment "1010064. A good time to finish up old tasks hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30849
+Time elapsed = 39.197265 sec
+Sleeping for 9 sec
+
+Attempt number 65
+Time is 2011-04-10 23:36:32 -0700
+Submitting comment "1010065. Little and often makes much hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30853
+Time elapsed = 54.765625 sec
+Sleeping for 7 sec
+
+Attempt number 66
+Time is 2011-04-10 23:37:38 -0700
+Submitting comment "1010066. Anger begins with folly, and ends with regret hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30857
+Time elapsed = 39.972657 sec
+Sleeping for 9 sec
+
+Attempt number 67
+Time is 2011-04-10 23:38:32 -0700
+Submitting comment "1010067. Share your joys and sorrows with your family hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30861
+Time elapsed = 38.541992 sec
+Sleeping for 5 sec
+
+Attempt number 68
+Time is 2011-04-10 23:39:21 -0700
+Submitting comment "1010068. Be direct, usually one can accomplish more that way hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30864
+Time elapsed = 52.649414 sec
+Sleeping for 6 sec
+
+Attempt number 69
+Time is 2011-04-10 23:40:25 -0700
+Submitting comment "1010069. An agreeable romance might begin to take on the appearance hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30868
+Time elapsed = 55.317383 sec
+Sleeping for 9 sec
+
+Attempt number 70
+Time is 2011-04-10 23:41:34 -0700
+Submitting comment "1010070. It is much wiser to take advice than to give it hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30873
+Time elapsed = 44.84375 sec
+Sleeping for 8 sec
+
+Attempt number 71
+Time is 2011-04-10 23:42:32 -0700
+Submitting comment "1010071. Curiosity kills boredom. Nothing can kill curiosity hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 30...
+
+Attempt number 71
+Time is 2011-04-10 23:43:11 -0700
+Submitting comment "1010071. Curiosity kills boredom. Nothing can kill curiosity hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30877
+Time elapsed = 52.297852 sec
+Sleeping for 9 sec
+
+Attempt number 72
+Time is 2011-04-10 23:44:17 -0700
+Submitting comment "1010072. Beauty in its various forms appeals to you hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 30...
+
+Attempt number 72
+Time is 2011-04-10 23:45:42 -0700
+Submitting comment "1010072. Beauty in its various forms appeals to you hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30885
+Time elapsed = 49.017578 sec
+Sleeping for 6 sec
+
+Attempt number 73
+Time is 2011-04-10 23:46:42 -0700
+Submitting comment "1010073. Courtesy begins in the home hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30888
+Time elapsed = 38.227539 sec
+Sleeping for 5 sec
+
+Attempt number 74
+Time is 2011-04-10 23:47:30 -0700
+Submitting comment "1010074. You will make change for the better hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30891
+Time elapsed = 58.240234 sec
+Sleeping for 6 sec
+
+Attempt number 75
+Time is 2011-04-10 23:48:39 -0700
+Submitting comment "1010075. Your heart is a place to draw true happiness hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30896
+Time elapsed = 39.584961 sec
+Sleeping for 5 sec
+
+Attempt number 76
+Time is 2011-04-10 23:49:29 -0700
+Submitting comment "1010076. You are working hard hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30901
+Time elapsed = 43.832031 sec
+Sleeping for 6 sec
+
+Attempt number 77
+Time is 2011-04-10 23:50:24 -0700
+Submitting comment "1010077. Don’t worry; prosperity will knock on your door soon hipster."
+Exception caught: "500 => Net::HTTPInternalServerError", retrying in 30...
+
+Attempt number 77
+Time is 2011-04-10 23:51:44 -0700
+Submitting comment "1010077. Don’t worry; prosperity will knock on your door soon hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30908
+Time elapsed = 36.944336 sec
+Sleeping for 6 sec
+
+Attempt number 78
+Time is 2011-04-10 23:52:32 -0700
+Submitting comment "1010078. Let the world be filled with tranquility and goodwill hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30912
+Time elapsed = 36.568359 sec
+Sleeping for 6 sec
+
+Attempt number 79
+Time is 2011-04-10 23:53:19 -0700
+Submitting comment "1010079. You have an unusual equipment for success, use it properly hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30916
+Time elapsed = 68.550781 sec
+Sleeping for 9 sec
+
+Attempt number 80
+Time is 2011-04-10 23:54:42 -0700
+Submitting comment "1010080. Love is for the lucky and the brave hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30919
+Time elapsed = 38.241211 sec
+Sleeping for 7 sec
+
+Attempt number 81
+Time is 2011-04-10 23:55:32 -0700
+Submitting comment "1010081. Your heart will always make itself known through your words hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30922
+Time elapsed = 51.223633 sec
+Sleeping for 7 sec
+
+Attempt number 82
+Time is 2011-04-10 23:56:35 -0700
+Submitting comment "1010082. A friend is a present you give yourself hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30926
+Time elapsed = 47.617187 sec
+Sleeping for 9 sec
+
+Attempt number 83
+Time is 2011-04-10 23:57:37 -0700
+Submitting comment "1010083. A member of your family will soon do something that will make you proud hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30929
+Time elapsed = 40.63086 sec
+Sleeping for 8 sec
+
+Attempt number 84
+Time is 2011-04-10 23:58:31 -0700
+Submitting comment "1010084. Your past success will be overshadowed by your future success hipster."
+Uri = http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets/#comment-30932
+Time elapsed = 38.798828 sec
+Sleeping for 8 sec
+
+Attempt number 85
+Time is 2011-04-10 23:59:22 -0700
+Submitting comment "1010085. Each day, compel yourself to do something you would rather not do hipster."
