@@ -64,8 +64,8 @@ begin
   agent = init_browser()
   page = agent.get "http://live105.radio.com/2011/02/21/be-comment-40000-with-the-word-hipster-and-win-coachella-tickets"
  
-  base_sleep_amount = 5;
-  rand_amount = 5
+  base_sleep_amount = 60 * 60
+  rand_amount = 60 * 45
   comment_no = 0
   i = 0
 
@@ -90,9 +90,9 @@ begin
       t1 = Time.now
 
       comment_form = page.form_with(:action => 'http://live105.radio.com/wp-comments-post.php')
-      comment_form.field_with(:name => "author").value = "Steve"
-      comment_form.field_with(:name => "email").value = "stoscano@hotmail.com"
-      comment_value = (ARGV[0].to_i+i).to_s + ". " + quotes[i]
+      comment_form.field_with(:name => "author").value = "nancy"
+      comment_form.field_with(:name => "email").value = "zotzot209@gmail.com"
+      comment_value = quotes[i]
       comment_form.field_with(:name => "comment").value = comment_value
       print "Submitting comment \"" + comment_value + "\""
       page = agent.submit comment_form

@@ -4,7 +4,7 @@ do
 	ruby live105-scraper.rb comments1.txt names1.txt whales1.txt
 	while [ 1 ]
 	do
-		if [ ! -f "/F/scratch/pause1.txt" ]
+		if [ ! -f "/F/scratch/pause3.txt" ]
 		then
 			break
 		fi
